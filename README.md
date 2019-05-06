@@ -1,6 +1,14 @@
-### Minimax Workshop
+### Alpha-Beta Workshop
 This is the starter code for the Alpha Beta Workshop. The Third of a three part series focusing on traditional AI techniques.
 This session will focus on improving the MiniMax Algorithm by implementing Alpha-Beta Pruning and Iterative Deepening!
+
+To successfully upgrade minimax you will need to follow the instructions for the following MinimaxPlayer class methods in agents.py:
+    
+    - search()
+    - minimax()
+    - min_value()
+    - max_value()
+    - minimax_search()
 
 ### Getting Started
 1. Make sure you have [Python 3.6](https://www.python.org/) installed.
